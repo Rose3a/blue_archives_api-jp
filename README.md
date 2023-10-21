@@ -1,4 +1,4 @@
-# Blue Archives API (JP)
+# Blue Archive API (JP)
 
 ## API Base URL
 - **Base URL**: https://rose03.com/api
