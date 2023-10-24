@@ -1,4 +1,4 @@
-# Blue Archive API (JP)
+# Blue Archive キャラクターAPI (JP)
 
 ## API Base URL
 - **Base URL**: https://rose03.com/api
