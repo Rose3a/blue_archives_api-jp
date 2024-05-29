@@ -1,6 +1,6 @@
 # Blue Archive キャラクターAPI (JP)
 
-##　Discord botを公開中 [こちら](https://discord.com/api/oauth2/authorize?client_id=1158306023384289300&permissions=0&scope=bot)から
+# Discord botを公開中 [こちら](https://discord.com/api/oauth2/authorize?client_id=1158306023384289300&permissions=0&scope=bot)から
 ## API Base URL
 - **Base URL**: https://rose03.com/api
 - サイトに繋がります。
